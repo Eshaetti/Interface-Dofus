@@ -1,0 +1,5 @@
+// Nostalgia // http://www.dofus.tools/php2/content/theme-29.json 
+// Taktik // http://www.dofus.tools/php2/content/theme-87.json 
+// Nostalgia // https://www.dofus.com/fr/forum/1105-creations-joueurs/2201673-2-52-nostalgia-maintenu
+// Taktik // https://www.dofus.com/fr/forum/1578-themes-interfaces/2221452-2-64-kanojedo-anciennement-taktik
+// Old Version of Nostalgia & Taktik by Twiinkx //
