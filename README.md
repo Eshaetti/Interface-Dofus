@@ -6,6 +6,12 @@ Installez les thèmes via les liens .json originaux (non mis à jour).
 Ensuite, allez ici : C:\Users\votre nom d'utilisateur\AppData\Roaming\Dofus\ui\themes
 Remplacez le contenu du dossier du thème par le contenu du fichier .zip correspondant (remplacez tout).
 
+EDIT : J'ai ajouté 2 fichier .json à jour, pour éviter l'étape ci-dessus :D
+
+https://raw.githubusercontent.com/Eshaetti/Interface-Dofus/last/TakTik.json
+
+https://raw.githubusercontent.com/Eshaetti/Interface-Dofus/last/Nostalgia.json
+
 Je maintiendrai les thèmes à jour pour les futures versions du jeu ;)
 
 À bientôt :)
